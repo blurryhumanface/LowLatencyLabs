@@ -1,8 +1,9 @@
 <section id="latestnews">
   {% for posts in site.posts %}
+  <p>{{ post.posttype }}</p>
     {% if post.posttype == "news" %}
         <div class="offset-2">
-          <p>post</p>
+          <p class="text-primary">post</p>
         </div>
     {% endif %}
   {% endfor %}
