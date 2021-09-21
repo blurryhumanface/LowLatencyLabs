@@ -1,9 +1,11 @@
 <section id="latestnews">
-  {% for post in site.posts %}
-    {% if post.posttype == "news" %}
-        <div class="offset-2">
-          <p class="">post</p>
-        </div>
-    {% endif %}
-  {% endfor %}
+  <div class="container">
+    {% for post in site.posts %}
+      {% if post.posttype == "news" %}
+          <div class="offset-2">
+            <p class="">post</p>
+          </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </section>
