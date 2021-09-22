@@ -3,7 +3,15 @@
     {% for post in site.posts %}
       {% if post.posttype == "news" %}
           <div class="offset-2">
-            <p class="">post</p>
+            <div class="row">
+              <div class="col-4">
+                <h2 class="post-title">{{ post.title }}</h2>
+                <hr class="post-hr">
+                <p>{{ post.excerpt }}</p>
+                <br>
+                <a href="#">-> Continue Reading</a>
+              </div>
+            </div>
           </div>
       {% endif %}
     {% endfor %}
