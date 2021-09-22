@@ -4,5 +4,8 @@
 
 .dark {
   background-color: #000;
+}
+
+.dark p {
   color: #FFF;
 }
