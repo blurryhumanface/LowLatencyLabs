@@ -1,3 +1,7 @@
 .no-padding {
   padding: 5px;
 }
+
+.dark {
+  background-color: black;
+}
