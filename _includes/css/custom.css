@@ -17,3 +17,11 @@
 .post-title {
   color: #FFF;
 }
+
+.small-padding {
+  padding: 50px;
+}
+
+.bottom-padding {
+  padding-bottom: 10px;
+}
