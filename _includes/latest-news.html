@@ -1,19 +1,19 @@
 <section id="latestnews" class="no-padding dark">
   <div class="container text-center">
     <div class="row">
-      <div class="col-4">
         {% for post in site.posts %}
           {% if post.posttype == "news" %}
-            <div class="offset-2">
-              <h2 class="post-title">{{ post.title }}</h2>
-              <hr class="post-hr">
-              <p>{{ post.excerpt }}</p>
-              <br>
-              <a href="">-> Continue Reading</a>
+            <div class="col-sm-4">
+              <div class="offset-2">
+                <h2 class="post-title">{{ post.title }}</h2>
+                <hr class="post-hr">
+                <p>{{ post.excerpt }}</p>
+                <br>
+                <a href="">-> Continue Reading</a>
+              </div>
             </div>
           {% endif %}
         {% endfor %}
-      </div>
     </div>
   </div>
 </section>
