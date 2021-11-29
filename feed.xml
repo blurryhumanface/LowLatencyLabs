@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low Latency Labs</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>https://y7kim.github.io/LowLatencyLabs//</link>
+    <atom:link href="https://y7kim.github.io/LowLatencyLabs//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 29 Nov 2021 00:38:52 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Nov 2021 00:38:52 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Low Latency Labs Launch</title>
+        <description>  &lt;p&gt;Why are we waiting? No one ever wished their computer took more time to finish a task.&lt;/p&gt;
+  &lt;p&gt;We launch the Low Latency Laboratory to measure, understand, and minimize network and system latency.&lt;/p&gt;
+  &lt;p&gt;Low Latency Laboratory provides a focused venue to allow our work on: the measurement of latency in both computer and networked-systems, the understanding of these measurements, and &lt;!--more--&gt; to announce our efforts to reduce and even entirely mitigate such latency.&lt;/p&gt;
+  &lt;p&gt;Practically, we can not banish latency entirely but we seek to better-understand and reduce the latency that does impact in our computer use.&lt;/p&gt;
+  &lt;p&gt;Latency costs us our most precious resource: time. Not only is time valuable at a personal-level, but by removing our ability to choose if and when to wait, the systems we rely-on waste resources thereby increasing the costs to each and everyone of us. In many respects the latency of networks and computer-systems has been a creeping outcome: in some cases a fixed overhead that was previously small enough to leave architects and implementors unconcerned is no longer irrelevant. In other ways increasingly complex systems have had ever-increasing quantities of latency, each small but insidious and significant in total.&lt;/p&gt;
+  &lt;p&gt;The &lt;a href=&quot;/LowLatencyLabs/&quot;&gt;Low Latency Laboratory&lt;/a&gt; seeks an ambitious goal: to remove the impact of latency on our networks and computer-systems. This adventurous objective will be sought by measuring and understanding the many facets of network and system latency all while considering alternative approaches to architecting, engineering, and optimizing network-systems.&lt;/p&gt;
+  &lt;br&gt;
+  &lt;br&gt;
+  &lt;p class=&quot;text-right&quot;&gt;Andrew W. Moore&lt;/p&gt;
+  &lt;p class=&quot;text-right&quot;&gt;University of Cambridge&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+        <link>https://y7kim.github.io/LowLatencyLabs//2017/08/21/Low-Latency-Labs-Launch.html</link>
+        <guid isPermaLink="true">https://y7kim.github.io/LowLatencyLabs//2017/08/21/Low-Latency-Labs-Launch.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dreams</title>
+        <description>
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
+        <link>https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/18/project-1.html</link>
+        <guid isPermaLink="true">https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/18/project-1.html</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Escape</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+        <link>https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/17/project-2.html</link>
+        <guid isPermaLink="true">https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/17/project-2.html</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Golden</title>
+        <description>
+</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
+        <link>https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/16/project-3.html</link>
+        <guid isPermaLink="true">https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/16/project-3.html</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Treehouse</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+        <link>https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/15/project-4.html</link>
+        <guid isPermaLink="true">https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/15/project-4.html</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Round Icons</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+        <link>https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/15/project-6.html</link>
+        <guid isPermaLink="true">https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/15/project-6.html</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Startup Framework</title>
+        <description>
+</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+        <link>https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/14/project-5.html</link>
+        <guid isPermaLink="true">https://y7kim.github.io/LowLatencyLabs//web%20development/2014/07/14/project-5.html</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
